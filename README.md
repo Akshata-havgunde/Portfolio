@@ -12,3 +12,4 @@ The purpose of this portfolio is threefold:
 3. **Learning and Growth:** Document my journey as a web developer, reflecting on challenges, solutions, and new skills acquired along the way. This serves not only as a portfolio but also as a personal space for continuous improvement.
 
 Feel free to explore the various sections of this portfolio to learn more about my technical skills, projects, and the experiences that have shaped my journey as a web developer.
+This is the link to my portfolio akshata-h-portfolio.netlify.app
